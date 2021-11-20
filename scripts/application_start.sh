@@ -10,4 +10,4 @@ export NVM_DIR="$HOME/.nvm"
 #Install npm modules
 npm install
 
-node app.js > app.out.log 2> app.err.log < /dev/numm &
+node app.js > app.out.log 2> app.err.log < /dev/null &
